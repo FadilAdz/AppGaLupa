@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "119038850664",
+    "project_id": "galupa-530d3",
+    "storage_bucket": "galupa-530d3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119038850664:android:c6abde22b2bb7720406ddd",
+        "android_client_info": {
+          "package_name": "com.fadiladz.galupa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5IiIERqHhrviFfPq5qHa1nD24dq3pHBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

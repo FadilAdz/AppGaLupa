@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#9A9A9A</color>
+    <color name="bgapp">#EDEDED</color>
+    <color name="printilanbg">#59877D</color>
+    <color name="printilanbg2">#84A59F</color>
+    <color name="textapp">#3E7975</color>
+    <color name="testred">#FF0000</color>
+</resources>

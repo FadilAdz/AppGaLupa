@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background2"
+    tools:context=".RegisterActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="114dp"
+        android:layout_marginTop="118dp"
+        android:layout_marginEnd="115dp"
+        android:layout_marginBottom="199dp"
+        app:srcCompat="@drawable/galupa" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerInParent="true">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:text="REGISTER"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:textColor="@color/bgapp"
+            android:gravity="left"/>
+
+        <EditText
+            android:id="@+id/etNama"
+            android:background="@drawable/edittext_background"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:hint="Nama Lengkap"/>
+
+        <EditText
+            android:id="@+id/etEmail"
+            android:background="@drawable/edittext_background"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:hint="Email"/>
+
+        <EditText
+            android:id="@+id/etPassword"
+            android:background="@drawable/edittext_background"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:hint="Password"/>
+
+        <Button
+            android:id="@+id/btnRegister"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/printilanbg"
+            android:text="Register"
+            android:textSize="19sp"
+            android:textStyle="bold"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"/>
+
+        <TextView
+            android:id="@+id/tvLogin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:text="Already have an account? Log in"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            android:gravity="center"/>
+
+    </LinearLayout>
+
+</RelativeLayout>
