@@ -1,13 +1,11 @@
 # 📱 AppGaLupa
 AppGaLupa is an Android app designed to help users record and remember important activities, such as daily tasks, important notes, or things that are often forgotten. The app is built using Kotlin and follows modern Android development best practices. <br> <br>
 
-| Variable           |             Isi            |
-| -------------------|----------------------------|
-| **Nama**           |         Fadil Aditya Adzima    |
-| **NIM**            |          312310617         |
-| **Kelas**          |          TI.23.A.6         |
-| **Mata Kuliah**    |      Pemrograman Mobile 2     |
-| **Dosen Pengampu** | Donny Maulana, S.Kom., M.M.S.I.  |
+| Nama Anggota Kelompok | NIM |
+|----|---|
+|Fadil Aditya Adzima | 312310617|
+|Raul Putra Widodo |312310610|
+|Fahmi Arifin |312310662|
 
 <br>
 
