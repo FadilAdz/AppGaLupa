@@ -11,6 +11,24 @@ AppGaLupa is an Android app designed to help users record and remember important
 
 <br>
 
+# $${\color{lightblue}StoryBoard}$$
+<br>
+
+![img](doc/StoryBoard.png) <br> <br>
+
+This storyboard showcases the step-by-step user journey within an agenda management application, starting from the splash screen and login page, moving through the registration process, and continuing to the main features where users can view, create, edit, or delete agenda items.
+
+<br> <br>
+
+# $${\color{lightblue}Mockup}$$
+<br>
+
+![img](doc/Mockup.png) <br> <br>
+
+This mockup visualizes the user interface design of the GaLupa app, starting from the splash screen, followed by login and sign-up pages, and then leading to the main screen where users can view their agendas, as well as an edit screen for modifying existing agenda items.
+
+<br> <br>
+
 # $${\color{lightblue}UI-Design}$$
 <br>
 
