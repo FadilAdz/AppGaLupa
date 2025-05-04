@@ -1,5 +1,5 @@
 # 📱 AppGaLupa
-AppGaLupa is an Android app designed to help users record and remember important activities, such as daily tasks, important notes, or things that are often forgotten. The app is built using Kotlin and follows modern Android development best practices. <br> <br>
+AppGaLupa is an Android app designed to help users record and remember important activities, such as daily tasks, important notes, or things that are often forgotten. The app is built using Java and follows modern Android development best practices. <br> <br>
 
 | Nama Anggota Kelompok | NIM |
 |----|---|
