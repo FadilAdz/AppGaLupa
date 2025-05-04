@@ -41,6 +41,6 @@ The "Galupa" UI Design is a user interface concept for a To Do List application,
 
 ![img](doc/SCRUM.png) <br> <br>
 
-This SCRUM board shows the progress of Kelompok 8's CRUD application project, with tasks divided into three columns: To Do (planned tasks), Doing (tasks currently in progress), and Done (completed tasks), allowing the team to collaborate and track work efficiently.
+This SCRUM board shows the progress of Kelompok 8's CRUD application project, with tasks divided into three columns: To Do (planned tasks), Doing (tasks currently in progress), and Done (completed tasks), allowing the team to collaborate and track work efficiently. [Klik Link Trello Disini!](https://trello.com/invite/b/67d910d93ab23cb51e7d57ab/ATTI8a0ab148ceeeedc3392544cb2da70b23A449A470/aplikasi-crud-kelompok-8)
 
 
